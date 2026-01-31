@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+
+# MNIST datasets (do not commit large files)
+train_mnist.csv
+mnist_test.csv
+*.csv
+
+# OS / Editor
+.vscode/
+.DS_Store
