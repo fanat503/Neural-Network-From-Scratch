@@ -18,7 +18,7 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
-How to run:
+## How to run:
 
 To train the model: python train_mnist.py
 To predict your digit: python predict_png.py --image my.png
