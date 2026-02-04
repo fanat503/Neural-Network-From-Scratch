@@ -30,6 +30,9 @@ This implementation focuses on the core calculus of AI:
 pip install -r requirements.txt
 
 
+![Скриншот Джарвиса](https://github.com/user-attachments/assets/441c8b8d-36db-4f20-b661-861e2ac29a46)
+
+
 ![Demo Image](https://github.com/user-attachments/assets/441c8b8d-36db-4f20-b661-861e2ac29a46)
 
 <img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/441c8b8d-36db-4f20-b661-861e2ac29a46" />
