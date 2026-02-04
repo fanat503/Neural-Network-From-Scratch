@@ -28,3 +28,7 @@ This implementation focuses on the core calculus of AI:
 
 ```bash
 pip install -r requirements.txt
+
+
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/441c8b8d-36db-4f20-b661-861e2ac29a46" />
+
